@@ -1,0 +1,5 @@
+terra-key.pub
+terra-key
+*.tfstate*
+.terraform*/
+.terraform.lock.hcl
